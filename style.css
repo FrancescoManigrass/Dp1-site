@@ -1,0 +1,59 @@
+.header{
+	text-align:center;
+	color:white;
+	width:100%;
+	background-color:green;
+	height:2em;
+}
+
+.menu{
+
+	float:left;
+	width:6em;
+	margin:1em;
+	min-height:2em;
+	padding:1em;
+	text-align:left;
+
+}
+
+.center{
+	text-align:center;
+	border-left:2px solid green;
+	margin-left:4em;	
+	padding:1em;
+	min-height:13em;
+
+}
+.centerlogin{
+	text-align:center;
+	border-left:2px solid green;
+	margin-left:10em;
+	padding:1em;
+	min-height:35em;
+}
+
+.success{
+	text-align:center;
+	color:green;
+}
+.error{
+	text-align:center;
+	color:red;
+}
+footer{
+	text-align:center;
+	border-top: solid 1px green;	
+	bottom:0em;
+	padding:1em;
+	width:97%;
+	font-size:11px;
+	color:#003576;
+}
+h1 h2 h3 h4{
+	text-align:center;
+	font-family: "Times New Roman", Times, serif;
+}
+body{
+	background-color:#f7f7f7;
+}
